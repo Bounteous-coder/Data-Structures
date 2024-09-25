@@ -1,2 +1,2 @@
 # Data-Structures
-Data Structures &amp; Algorithmic Projects I have done at university.
+My Data Structures &amp; Algorithmic Projects using Java I have done at university.
