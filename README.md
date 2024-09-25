@@ -1,2 +1,2 @@
 # Data-Structures
-Data Structures &amp; Algorithmic Codes I have done at university.
+Data Structures &amp; Algorithmic Projects I have done at university.
